@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:436BB7&height=200&section=header&text=Chayanun%20Yuvanaboon&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=436BB7&center=true&vCenter=true&width=600&lines=Building+Enterprise+AI+Systems+%F0%9F%A4%96;Agentic+RAG+%26+LLM+Orchestration+%E2%9A%99%EF%B8%8F;Full+Stack+Dev+%40+UTCC+%F0%9F%8E%93;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
