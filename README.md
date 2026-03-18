@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0f,50:00302e,100:00d2be&height=200&section=header&text=Chayanun%20Yuvanaboon&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2BE&center=true&vCenter=true&width=600&lines=Building+Enterprise+AI+Systems+%F0%9F%A4%96;Agentic+RAG+%26+LLM+Orchestration+%E2%9A%99%EF%B8%8F;Full+Stack+Dev+%40+UTCC+%F0%9F%8E%93;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -78,23 +75,6 @@ class Chayanun:
 ![Graph RAG](https://img.shields.io/badge/Graph_RAG-00302e?style=flat-square&color=00302e)
 ![Reasoning Models](https://img.shields.io/badge/Reasoning_LLMs-00302e?style=flat-square)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-00302e?style=flat-square)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LacTodddd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0f0f&title_color=00d2be&icon_color=00d2be&text_color=ffffff" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LacTodddd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f0f&title_color=00d2be&text_color=ffffff" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LacTodddd&theme=tokyonight&hide_border=true&background=0a0f0f&ring=00d2be&fire=00d2be&currStreakLabel=00d2be&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LacTodddd&theme=tokyo-night&hide_border=true&bg_color=0a0f0f&color=00d2be&line=00d2be&point=ffffff" alt="Contribution Graph" width="100%"/>
-</p>
 
 ---
 
