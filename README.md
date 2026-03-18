@@ -1,73 +1,113 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#436BB7;">Chayanun Yuvanaboon</span></h1>
-<h3 align="center">💻 Full Stack Developer & AI Engineer | Computer Science Student @ UTCC</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LacTodddd&label=Profile%20Views&color=436BB7&style=flat" alt="Views" />
-</p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:436BB7&height=200&section=header&text=Chayanun%20Yuvanaboon&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=436BB7&center=true&vCenter=true&width=600&lines=Building+Enterprise+AI+Systems+%F0%9F%A4%96;Agentic+RAG+%26+LLM+Orchestration+%E2%9A%99%EF%B8%8F;Full+Stack+Dev+%40+UTCC+%F0%9F%8E%93;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=LacTodddd&label=Profile+Views&color=436BB7&style=flat-square" alt="Views" />
+
+</div>
 
 ---
 
 ### 🌌 About Me
-I'm a **Computer Science student at UTCC** with a passion for building **Enterprise-grade AI systems** and **Modern Full Stack applications**. I specialize in **Agentic RAG** architectures, focusing on high-precision retrieval and autonomous AI agents.
 
-- 🎓 Studying Computer Science at **UTCC**
-- 🤖 **Specializing in:** Agentic RAG, LLM Orchestration, and Computer Vision
-- ⚙️ **Experienced with:** Next.js 15, FastAPI, React 19, and Spring Boot
-- 🚀 Always pushing the boundaries of AI — one autonomous agent at a time  
+```python
+class Chayanun:
+    education  = "Computer Science @ UTCC"
+    focus      = ["Agentic RAG", "LLM Orchestration", "Computer Vision"]
+    stack      = ["Next.js 15", "FastAPI", "React 19", "Spring Boot"]
+    currently  = "Building autonomous AI agents 🤖"
+    fun_fact   = "I debug at 2am and call it research 🌙"
+```
 
 ---
 
-### ⚙️ Technical Skills
+### ⚙️ Tech Stack
 
-#### 🧩 AI & Data Engineering
+#### 🤖 AI & Data Engineering
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2C3E50?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4154?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 🧩 Frontend & Backend
 ![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 🌟 Featured Projects
 
 | 💠 Project | 💬 Description | 🧰 Stack |
-|-------------|----------------|-----------|
-| 🏢 **Call Center Intel** | **Enterprise Agentic RAG** with parallel tool execution, PII redaction, and Twitter-style UI. | Next.js 15 + FastAPI + Azure OpenAI |
-| 🔍 **Doc Intelligence Agent** | Multi-agent system for Thai SME document processing using **LangGraph** & RAG. | Typhoon2 + ChromaDB + LangGraph |
-| 🚗 **License Plate Recognition** | End-to-end detection & OCR system with real-time dashboard and session matching. | YOLOv11 + FastAPI + React |
-| 🏍️ **Motorcycle Detection** | Mobile application for real-time object detection and automated image batching. | Flutter + TFLite + Spring Boot |
+|---|---|---|
+| 🏢 **Enterprise Call Center Intel** | Agentic RAG system with parallel tool execution, PII redaction, and real-time chat UI | Next.js 15 + FastAPI + Azure OpenAI |
+| 🔍 **Doc Intelligence Agent** | Multi-agent system for Thai SME document processing using LangGraph & Hybrid RAG | Typhoon2 + ChromaDB + LangGraph |
+| 🚗 **License Plate Recognition** | End-to-end detection & OCR with real-time dashboard and session matching | YOLOv11 + FastAPI + React |
+| 🏍️ **Motorcycle Detection** | Mobile app for real-time object detection and automated image batching | Flutter + TFLite + Spring Boot |
 
 ---
 
 ### 🚀 AI Capabilities & Research
-* **Agentic Orchestration:** Developed custom LLM orchestrators using Function Calling for parallel tool execution.
-* **Advanced RAG:** Implemented Hybrid Search (RRF), Multi-Query expansion, and Contextual Compression.
-* **Guardrails:** Integrated PII Redaction and Anti-Hallucination checks for business-safe AI responses.
-* **Performance:** Optimized high-throughput background pipelines using Celery & Redis.
+
+```
+🔁  Agentic Orchestration  →  Custom LLM orchestrators with parallel Function Calling
+📚  Advanced RAG           →  Hybrid Search (RRF), Multi-Query Expansion, Contextual Compression  
+🛡️  Guardrails             →  PII Redaction & Anti-Hallucination checks for production AI
+⚡  Performance            →  High-throughput background pipelines with Celery & Redis
+👁️  Computer Vision        →  Real-time detection & OCR pipelines with YOLOv11
+```
+
+---
+
+### 🌱 Currently Exploring
+
+![LangGraph](https://img.shields.io/badge/Multi--Agent_Systems-2C3E50?style=flat-square&logo=langchain&logoColor=white)
+![Graph RAG](https://img.shields.io/badge/Graph_RAG-FF6B6B?style=flat-square)
+![Reasoning Models](https://img.shields.io/badge/Reasoning_LLMs-436BB7?style=flat-square)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square)
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LacTodddd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LacTodddd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LacTodddd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=436BB7&icon_color=436BB7" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LacTodddd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=436BB7" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LacTodddd&theme=tokyonight&hide_border=true&background=0d1117&ring=436BB7&fire=436BB7&currStreakLabel=436BB7" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LacTodddd&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=436BB7&line=436BB7&point=ffffff" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
 
 ### 📫 Contact Me
-[![GitHub](https://img.shields.io/badge/GitHub-LacTodddd-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LacTodddd)&nbsp;
-[![Email](https://img.shields.io/badge/Email-lactodddd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lactodddd@gmail.com)&nbsp;
 
----
+<p align="center">
+  <a href="https://github.com/LacTodddd">
+    <img src="https://img.shields.io/badge/GitHub-LacTodddd-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:lactodddd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lactodddd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<div align="center">
-🩵 <b>Thank you for visiting my profile — feel free to explore my repositories!</b>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:436BB7,100:0d1117&height=120&section=footer" width="100%"/>
