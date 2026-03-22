@@ -1,22 +1,23 @@
 <div align="center">
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2BE&center=true&vCenter=true&width=600&lines=Building+Enterprise+AI+Systems+%F0%9F%A4%96;Agentic+RAG+%26+LLM+Orchestration+%E2%9A%99%EF%B8%8F;Full+Stack+Dev+%40+UTCC+%F0%9F%8E%93;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+# Hi, I'm Chayanun 👋
 
 <img src="https://komarev.com/ghpvc/?username=LacTodddd&label=Profile+Views&color=00d2be&style=flat-square" alt="Views" />
+
+**Computer Science student @ UTCC · Intern · Building things with AI & web**
 
 </div>
 
 ---
 
-### 🌌 About Me
+### About Me
 
 ```python
 class Chayanun:
     education  = "Computer Science @ UTCC"
-    focus      = ["Agentic RAG", "LLM Orchestration", "Computer Vision"]
+    focus      = ["Agentic RAG", "Computer Vision", "Full Stack Web"]
     stack      = ["Next.js 15", "FastAPI", "React 19", "Spring Boot"]
-    currently  = "Building autonomous AI agents 🤖"
+    currently  = "3 months into my first internship 🌱"
     fun_fact   = "I debug at 2am and call it research 🌙"
 ```
 
@@ -26,8 +27,6 @@ class Chayanun:
 
 #### 🤖 AI & Data Engineering
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-00302e?style=for-the-badge&logo=langchain&logoColor=00d2be)
-![LangChain](https://img.shields.io/badge/LangChain-00302e?style=for-the-badge&logo=langchain&logoColor=00d2be)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4154?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-00d2be?style=for-the-badge&logo=ultralytics&logoColor=black)
@@ -38,9 +37,9 @@ class Chayanun:
 ![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=00d2be)
 ![React 19](https://img.shields.io/badge/React_19-00d2be?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -48,24 +47,12 @@ class Chayanun:
 
 ### 🌟 Featured Projects
 
-| 💠 Project | 💬 Description | 🧰 Stack |
+| Project | Description | Stack |
 |---|---|---|
 | 🏢 **Enterprise Call Center Intel** | Agentic RAG system with parallel tool execution, PII redaction, and real-time chat UI | Next.js 15 + FastAPI + Azure OpenAI |
-| 🔍 **Doc Intelligence Agent** | Multi-agent system for Thai SME document processing using LangGraph & Hybrid RAG | Typhoon2 + ChromaDB + LangGraph |
+| 🔍 **Doc Intelligence Agent** | Multi-agent system for Thai SME document processing using Hybrid RAG | Typhoon2 + ChromaDB |
 | 🚗 **License Plate Recognition** | End-to-end detection & OCR with real-time dashboard and session matching | YOLOv11 + FastAPI + React |
-| 🏍️ **Motorcycle Detection** | Mobile app for real-time object detection and automated image batching | Flutter + TFLite + Spring Boot |
-
----
-
-### 🚀 AI Capabilities & Research
-
-```
-🔁  Agentic Orchestration  →  Custom LLM orchestrators with parallel Function Calling
-📚  Advanced RAG           →  Hybrid Search (RRF), Multi-Query Expansion, Contextual Compression  
-🛡️  Guardrails             →  PII Redaction & Anti-Hallucination checks for production AI
-⚡  Performance            →  High-throughput background pipelines with Celery & Redis
-👁️  Computer Vision        →  Real-time detection & OCR pipelines with YOLOv11
-```
+| 🏍️ **Motorcycle Detection** | Real-time object detection with automated image batching | TFLite + Spring Boot |
 
 ---
 
@@ -89,5 +76,3 @@ class Chayanun:
     <img src="https://img.shields.io/badge/Email-lactodddd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2be,100:0a0f0f&height=120&section=footer" width="100%"/>
