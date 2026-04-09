@@ -4,22 +4,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=LacTodddd&label=Profile+Views&color=00d2be&style=flat-square" alt="Views" />
 
-**Computer Science student @ UTCC · Intern · Building things with AI & web**
+**Computer Science student @ UTCC · Building things with AI & web**
 
 </div>
-
----
-
-### About Me
-
-```python
-class Chayanun:
-    education  = "Computer Science @ UTCC"
-    focus      = ["Agentic RAG", "Computer Vision", "Full Stack Web"]
-    stack      = ["Next.js 15", "FastAPI", "React 19", "Spring Boot"]
-    currently  = "3 months into my first internship 🌱"
-    fun_fact   = "I debug at 2am and call it research 🌙"
-```
 
 ---
 
