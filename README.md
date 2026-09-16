@@ -62,15 +62,6 @@ I'm a **Computer Science student at UTCC (GPAX 3.61)** building AI-driven web ap
 
 ---
 
-### 🌱 Currently Exploring
-
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-00302e?style=flat-square&logo=langchain&logoColor=00d2be)
-![Graph RAG](https://img.shields.io/badge/Graph_RAG-00302e?style=flat-square&color=00302e)
-![Reasoning Models](https://img.shields.io/badge/Reasoning_LLMs-00302e?style=flat-square)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-00302e?style=flat-square)
-
----
-
 ### 📫 Connect with Me
 
 <div align="center">
