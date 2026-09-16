@@ -60,14 +60,6 @@
 
 ---
 
-### 🏢 Industry Experience *(confidential)*
-
-Enterprise projects built during work placements — implementation details are company-confidential, so only the scope is shown:
-
-- **Thai Beverage (ThaiBev)** — customer master-data platform ("One Customer": service, sync & AI-assisted mapping cronjobs, admin CMS), a sales promotion recommendation engine, and Airflow-based data pipelines.
-- **TCC Group** — internal enterprise project.
-
----
 
 ### 🌱 Currently Exploring
 
