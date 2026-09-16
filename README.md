@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=LacTodddd&label=Profile+Views&color=00d2be&style=flat-square" alt="Views" />
 
-**Computer Science student @ UTCC · Building things with AI & web**
+**Building things with AI & web**
 
 </div>
 
