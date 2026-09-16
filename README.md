@@ -37,9 +37,35 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🏢 **Enterprise Call Center Intel** | Agentic RAG system with parallel tool execution, PII redaction, and real-time chat UI | Next.js 15 + FastAPI + Azure OpenAI |
-| 🔍 **Doc Intelligence Agent** | Multi-agent system for Thai SME document processing using Hybrid RAG | Typhoon2 + ChromaDB |
+| 🔍 **[Doc Intelligence Agent](https://github.com/LacTodddd/Document-Intelligence-Agent-SME)** | Agentic RAG for Thai SMEs — ask business documents in Thai/English, get cited answers | Typhoon2 + Hybrid RAG + ChromaDB |
 | 🚗 **License Plate Recognition** | End-to-end detection & OCR with real-time dashboard and session matching | YOLOv11 + FastAPI + React |
 | 🏍️ **Motorcycle Detection** | Real-time object detection with automated image batching | TFLite + Spring Boot |
+| ⚛️ **[ATOMICA](https://github.com/LacTodddd/atom-lab)** | AI-guided scientific-discovery loop — benchmarks AI/ML search vs. classical baselines on atomic systems | Python |
+| 🔬 **Automated Research Machine** *(private)* | Pipeline that tracks, filters & synthesizes AI/tech research trends into an Obsidian knowledge graph | Python |
+| 💸 **CashFlow** *(private)* | Personal finance tracker with per-user data isolation, deployed on Vercel | Next.js + PostgreSQL (Neon) |
+
+<details>
+<summary>More projects</summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧮 **[Flexible Budget & Investment Allocator](https://github.com/LacTodddd/Flexible-Budget-Investment-Allocator)** | CLI tool for tracking income, expenses, emergency funds & investment allocation | Python |
+| 🎮 **[Programmer Quiz](https://github.com/LacTodddd/LT-Code_Lerning)** | Gamified programming quiz platform, Beginner → Distinguished skill levels | TypeScript |
+| 🆔 **Manta ID** *(private)* | Digital identity / ID verification app | Next.js |
+| 🎨 **Beguin Studio** *(private)* | Bilingual (TH/EN) portfolio & commissioned-design studio website | Next.js |
+| 🔎 **[Lost & Found](https://github.com/LacTodddd/Unifind_front)** | Frontend for a lost-and-found web app | React |
+| 🍔 **Food Ordering App** | University final project — food ordering system | Java |
+
+</details>
+
+---
+
+### 🏢 Industry Experience *(confidential)*
+
+Enterprise projects built during work placements — implementation details are company-confidential, so only the scope is shown:
+
+- **Thai Beverage (ThaiBev)** — customer master-data platform ("One Customer": service, sync & AI-assisted mapping cronjobs, admin CMS), a sales promotion recommendation engine, and Airflow-based data pipelines.
+- **TCC Group** — internal enterprise project.
 
 ---
 
