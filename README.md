@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f0f,00695c,00d2be&height=200&section=header&text=Chayanun&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Computer%20Science%20@%20UTCC&descFontSize=18&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0f,50:00695c,100:00d2be&height=200&section=header&text=Chayanun&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20/%20Full-Stack%20Developer%20%7C%20Computer%20Science%20@%20UTCC&descFontSize=18&descAlignY=62&descAlign=50" width="100%" />
 
   <p align="center">
     <a href="https://github.com/LacTodddd"><img src="https://img.shields.io/badge/GitHub-LacTodddd-0a0f0f?style=for-the-badge&logo=github&logoColor=00d2be" alt="GitHub" /></a>&nbsp;
